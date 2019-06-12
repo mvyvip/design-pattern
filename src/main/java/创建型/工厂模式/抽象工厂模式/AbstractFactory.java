@@ -19,8 +19,10 @@ public class AbstractFactory {
 
 interface Factory {
 
-    public void productMethod();
-    public Gift createGift();
+    void productMethod();
+
+    Gift createGift();
+
 }
 
 class ProductA implements Factory {
