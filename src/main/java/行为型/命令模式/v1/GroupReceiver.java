@@ -3,7 +3,7 @@ package 行为型.命令模式.v1;
 /**
  * 抽象组
  */
-public abstract class Group {
+public abstract class GroupReceiver {
     //甲乙双方分开办公，如果你要和某个组讨论，你首先要找到这个组
     public abstract void find();
     //被要求增加功能

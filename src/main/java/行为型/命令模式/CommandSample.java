@@ -1,6 +1,8 @@
 package 行为型.命令模式;
 
 /**
+ * https://www.cnblogs.com/chenpi/p/5216488.html
+ *
  * 15.3.1 命令模式的优点
  * ● 类间解耦
  * 调用者角色与接收者角色之间没有任何依赖关系，调用者实现功能时只需调用Command

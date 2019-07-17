@@ -3,7 +3,7 @@ package 行为型.命令模式.v1;
 /**
  * Created by lt on 2018/9/6 0006.
  */
-public class CodeGroup extends Group {
+public class CodeGroupReceiver extends GroupReceiver {
     //客户要求代码组过去和他们谈
     @Override
     public void find() {

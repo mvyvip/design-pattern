@@ -3,7 +3,7 @@ package 行为型.命令模式.v1;
 /**
  * Created by lt on 2018/9/6 0006.
  */
-public class PageGroup extends Group {
+public class PageGroupReceiver extends GroupReceiver {
     //首先这个美工组应该能找到吧，要不你跟谁谈？
     @Override
     public void find() {
